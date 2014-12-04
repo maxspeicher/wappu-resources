@@ -17,4 +17,4 @@ This repository contains:
 
 - The complete list of interaction features and complete user study results (onlineAppendix.pdf).
 - The correlations of the original search engine results page for the most representative user context *HD screen / new user* (correlations_A_HD_notFamiliar.csv).
-- Training data, usability model and test set for each of the investigated usability factors (context *HD screen / new user*).
+- Training data, usability model and test set for each of the investigated usability factors (context *HD screen / new user*). To be used with [WEKA](http://www.cs.waikato.ac.nz/ml/weka/).
