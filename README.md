@@ -11,9 +11,9 @@ http://www.youtube.com/watch?v=vj4cNi7O4ws
 
 ## Publications
 
-- Maximilian Speicher, Andreas Both, and Martin Gaedke (2014). "Ensuring Web Interface Quality through Usability-based Split Testing". In: *Proc. ICWE*. http://link.springer.com/chapter/10.1007/978-3-319-08245-5_6
-- Maximilian Speicher, Andreas Both, and Martin Gaedke (2014). "WaPPU: Usability-based A/B Testing". In: *Proc. ICWE (Demos)*. http://link.springer.com/chapter/10.1007/978-3-319-08245-5_47
-- Maximilian Speicher, Andreas Both, and Martin Gaedke (2013). "Was that Webpage Pleasant to Use? Predicting Usability Quantitatively from Interactions". In: *Proc. ICWE Workshops*. http://link.springer.com/chapter/10.1007/978-3-319-04244-2_33
+- Maximilian Speicher, Andreas Both, and Martin Gaedke (2014). "Ensuring Web Interface Quality through Usability-based Split Testing". In: *Proc. ICWE*. [Electronic Edition](http://link.springer.com/chapter/10.1007/978-3-319-08245-5_6) | [Full Text](https://www.researchgate.net/publication/271269916)
+- Maximilian Speicher, Andreas Both, and Martin Gaedke (2014). "WaPPU: Usability-based A/B Testing". In: *Proc. ICWE (Demos)*. [Electronic Edition](http://link.springer.com/chapter/10.1007/978-3-319-08245-5_47) | [Full Text](https://www.researchgate.net/publication/271269917)
+- Maximilian Speicher, Andreas Both, and Martin Gaedke (2013). "Was that Webpage Pleasant to Use? Predicting Usability Quantitatively from Interactions". In: *Proc. ICWE Workshops*. [Electronic Edition](http://link.springer.com/chapter/10.1007/978-3-319-04244-2_33) | [Full Text](https://www.researchgate.net/publication/249009509)
 
 ## Resources
 
